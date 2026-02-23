@@ -23,9 +23,7 @@ const App = () => {
         <Footer />
 
       </div>
-      <Routes>
-        <Route/>
-      </Routes>
+      
     </Router>
     </>
   )
